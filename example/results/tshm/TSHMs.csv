@@ -1,0 +1,10 @@
+Site_ID,Tissue,Mean_spm_adjust,Tscore
+112209,muscle,0.88,1
+119329,brain,0.89,1
+121835,brain,0.87,1
+162470,brain,0.86,1
+178992,brain,0.86,1
+190110,liver,0.85,1
+254827,brain,0.85,1
+320017,testis,0.84,0.64
+383333,brain,0.89,1
